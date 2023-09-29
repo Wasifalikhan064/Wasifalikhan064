@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasif Ali khan</h1>
-<h3 align="center">A passionate Web developer from India with curiosity to learn</h3>
+<h3 align="center">I'm a Passionate for Problem Solving and MERN Stack Developer from India</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 
@@ -9,6 +9,7 @@
 - 🔭 I’m currently learning **Web development (MERN stack)**
  - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+-  👯 I’m looking to collaborate on **OpenSource Projects**
 - 👁‍🗨 What's Special about me? <br>
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
